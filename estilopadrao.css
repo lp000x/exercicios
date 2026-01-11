@@ -52,7 +52,8 @@ img{
 
 main > hr{
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.404);
-    width: 600px;
+    max-width: 600px;
+    min-width: 300px;
 }
 
 main > h2{
